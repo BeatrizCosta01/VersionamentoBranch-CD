@@ -1,5 +1,3 @@
 # VersionamentoBranch-CD
 
-# Dark Mode
-
-
+# Purple Mode
